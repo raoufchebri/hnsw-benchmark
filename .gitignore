@@ -1,8 +1,0 @@
-# .gitignore
-
-# Ignore hnsw directory
-/hnsw
-
-# Ignore specific files
-/gist-960-euclidean.hdf5
-/gist.csv
